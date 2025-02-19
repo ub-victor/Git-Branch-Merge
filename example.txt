@@ -1,1 +1,2 @@
-This is a line of text.
+git add example.txt  
+git commit -m "Changed the line in main"  
