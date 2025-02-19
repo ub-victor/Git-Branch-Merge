@@ -1,2 +1,1 @@
-git add example.txt  
-git commit -m "Changed the line in main"  
+This line has been modified in main."
