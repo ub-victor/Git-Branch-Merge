@@ -5,3 +5,5 @@ This is an example repository for the Git tutorial on https://victoireushindi371
 This is an example is built step by step in the tutorial.
 
 It now includes steps for GitHub
+
+Let's practice then
