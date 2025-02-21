@@ -7,3 +7,5 @@ This is an example is built step by step in the tutorial.
 It now includes steps for GitHub
 
 Let's practice then
+
+Git Push Branch to GitHub
